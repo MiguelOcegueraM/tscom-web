@@ -53,7 +53,6 @@
       <!--Image Right-->
       <section class="section section-lg bg-default">
         <div class="container">
-          <div class="row">
             <div class="wow fadeInLeft" data-wow-delay=".2s">
               <h3>Videovigilancia</h3>
               <div class="row row-30 flex-md-row-reverse">
@@ -64,7 +63,6 @@
                 </div>
               </div>
             </div>
-          </div>
         </div>
       </section>
           <!--Image Left-->
@@ -85,7 +83,6 @@
       <!--Image Right-->
       <section class="section section-lg bg-default">
         <div class="container">
-          <div class="row">
             <div class="wow fadeInLeft" data-wow-delay=".2s">
               <h3>Equipamiento de unidades de emergencia</h3>
               <div class="row row-30 flex-md-row-reverse">
@@ -96,11 +93,10 @@
                 </div>
               </div>
             </div>
-          </div>
         </div>
       </section>
           <!--Image Left-->
-          <section class="section section-lg bg-default">
+      <section class="section section-lg bg-default">
         <div class="container">
             <div class="wow fadeInRight" data-wow-delay=".2s">
               <h3>Control de acceso residencial e industrial</h3>
@@ -117,7 +113,6 @@
       <!--Image Right-->
       <section class="section section-lg bg-default">
         <div class="container">
-          <div class="row">
             <div class="wow fadeInLeft" data-wow-delay=".2s">
               <h3>Sistemas de paneles solares</h3>
               <div class="row row-30 flex-md-row-reverse">
@@ -128,7 +123,6 @@
                 </div>
               </div>
             </div>
-          </div>
         </div>
       </section>
       <!--brands-->
