@@ -20,8 +20,8 @@
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-xl-8 text-center">
-              <h1 class="font-weight-bold wow fadeInLeft">Contacts</h1>
-              <p class="intro-description wow fadeInRight">Ut enim ad minim laboris nisi ut aliquip ex ea commodo consequat.</p>
+              <h1 class="font-weight-bold wow fadeInLeft">Contacto</h1>
+              <p class="intro-description wow fadeInRight">Si deseas realizar una cotización escríbenos tus datos y nosotros te contactaremos, también puedes encontrar nuestros datos de contacto en la parte superior e inferior de la página.</p>
             </div>
           </div>
         </div>
@@ -34,19 +34,19 @@
             <div class="col-xl-6 col-md-8 col-12">
               <form class="rd-mailform text-left" data-form-output="form-output-global" data-form-type="contact" method="post" action="bat/rd-mailform.php">
                 <div class="form-wrap">
-                  <label class="form-label" for="contact-name">Name<span class="req-symbol">*</span></label>
+                  <label class="form-label" for="contact-name">Nombre<span class="req-symbol">*</span></label>
                   <input class="form-input" id="contact-name" type="text" name="name" data-constraints="@Required">
                 </div>
                 <div class="form-wrap">
-                  <label class="form-label" for="contact-phone">Phone<span class="req-symbol">*</span></label>
+                  <label class="form-label" for="contact-phone">Teléfono<span class="req-symbol">*</span></label>
                   <input class="form-input" id="contact-phone" type="text" name="phone" data-constraints="@Required @PhoneNumber">
                 </div>
                 <div class="form-wrap">
-                  <label class="form-label" for="contact-email">E-Mail<span class="req-symbol">*</span></label>
+                  <label class="form-label" for="contact-email">Correo<span class="req-symbol">*</span></label>
                   <input class="form-input" id="contact-email" type="email" name="email" data-constraints="@Required @Email">
                 </div>
                 <div class="form-wrap">
-                  <label class="form-label label-textarea" for="contact-message">Message<span class="req-symbol">*</span></label>
+                  <label class="form-label label-textarea" for="contact-message">Mensaje<span class="req-symbol">*</span></label>
                   <textarea class="form-input" id="contact-message" name="message" data-constraints="@Required"></textarea>
                 </div>
                 <!--Google captcha-->
@@ -54,7 +54,7 @@
                   <div class="recaptcha" id="captcha1" data-sitekey="6LfZlSETAAAAAC5VW4R4tQP8Am_to4bM3dddxkEt"></div>
                 </div>
                 <div class="form-button group-sm text-center text-lg-left">
-                  <button class="button button-primary" type="submit">Send</button>
+                  <button class="button button-primary" type="submit">Enviar</button>
                 </div>
               </form>
             </div>
@@ -72,7 +72,6 @@
             <li data-location="9870 St Vincent Place, Glasgow, DC 45 Fr 45." data-description="9870 St Vincent Place, Glasgow"></li>
           </ul>
         </div>
-      </section><a class="section section-banner" href="https://www.templatemonster.com/intense-multipurpose-html-template.html" target="_blank" style="background-image: url(images/background-01-1920x310.jpg); background-image: -webkit-image-set( url(images/background-01-1920x310.jpg) 1x, url(images/background-01-3840x620.jpg) 2x )"><img src="images/foreground-01-1600x310.png" srcset="images/foreground-01-1600x310.png 1x, images/foreground-01-3200x620.png 2x" alt="" width="1600" height="310"></a>
       <?php include("footer.php")?>
     </div>
     <div class="snackbars" id="form-output-global"></div>

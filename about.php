@@ -76,109 +76,79 @@
         </div>
       </section>
       <!-- Our team-->
-      <section class="section section-md">
+      <section class="section section-md bg-gray-lighten">
         <div class="container">
-          <div class="row row-50 justify-content-center">
             <div class="col-md col-12 text-center">
               <div class="section-name wow fadeInRight" data-wow-delay=".2s">Referencias</div>
               <h3 class="wow fadeInLeft text-capitalize" data-wow-delay=".3s">algunos de <span class="text-primary"> nuestros clientes</span></h3>
               <p class="block-675">Contamos con una amplia cartera de clientes que hemos formado a lo largo de estos años, estos son algunos de ellos:</p>
             </div>
-          </div>
-          <div class="row row-50 justify-content-center">
-            <div class="col-xl-4 col-sm-6 col-10 wow fadeInLeft" data-wow-delay=".3s">
-              <div class="team-classic-wrap">
-                <div class="team-classic-img"><img src="images/team-classic-1-370x397.jpg" alt="" width="370" height="198"/>
-                </div>
-                <div class="block-320 text-center">
-                  <h4 class="font-weight-bold">William Johnson</h4><span class="d-block">CEO, Founder</span>
-                  <ul class="justify-content-center social-links offset-top-30">
-                    <li><a class="fa fa-linkedin" href="#"></a></li>
-                    <li><a class="fa fa fa-twitter" href="#"></a></li>
-                    <li><a class="fa fa-facebook" href="#"></a></li>
-                    <li><a class="fa fa-instagram" href="#"></a></li>
-                  </ul>
+          <div class="row">
+            <!-- Owl Carousel-->
+            <div class="owl-carousel text-center"data-items="1" data-sm-items="1" data-md-items="2" data-lg-items="2" data-xl-items="3" data-xxl-items="3"  data-dots="true" data-nav="false" data-stage-padding="15" data-loop="false" data-margin="30" data-mouse-drag="true">
+              <div class="row row-50 justify-content-center">
+                <div class="col-xl-4 col-sm-6 col-10">
+                  <div class="team-classic-wrap">
+                    <div class="team-classic-img"><img src="images/team-classic-1-370x397.jpg" alt="" width="370" height="198"/>
+                    </div>
+                    <div class="block-320 text-center">
+                      <h4 class="font-weight-bold">William Johnson</h4><span class="d-block">CEO, Founder</span>
+                    </div>
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="col-xl-4 col-sm-6 col-10 wow fadeInUp" data-wow-delay=".3s">
-              <div class="team-classic-wrap">
-                <div class="team-classic-img"><img src="images/team-classic-2-370x397.jpg" alt="" width="370" height="198"/>
-                </div>
-                <div class="block-320 text-center">
-                  <h4 class="font-weight-bold">Jane McMillan</h4><span class="d-block">Business Advisor</span>      
-                  <ul class="justify-content-center social-links offset-top-30">
-                    <li><a class="fa fa-linkedin" href="#"></a></li>
-                    <li><a class="fa fa fa-twitter" href="#"></a></li>
-                    <li><a class="fa fa-facebook" href="#"></a></li>
-                    <li><a class="fa fa-instagram" href="#"></a></li>
-                  </ul>
+
+              <div class="row row-50 justify-content-center">
+                <div class="col-xl-4 col-sm-6 col-10">
+                  <div class="team-classic-wrap">
+                    <div class="team-classic-img"><img src="images/team-classic-1-370x397.jpg" alt="" width="370" height="198"/>
+                    </div>
+                    <div class="block-320 text-center">
+                      <h4 class="font-weight-bold">William Johnson</h4><span class="d-block">CEO, Founder</span>
+                    </div>
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="col-xl-4 col-sm-6 col-10 wow fadeInRight" data-wow-delay=".3s">
-              <div class="team-classic-wrap">
-                <div class="team-classic-img"><img src="images/team-classic-3-370x397.jpg" alt="" width="370" height="198"/>
-                </div>
-                <div class="block-320 text-center">
-                  <h4 class="font-weight-bold">Robert Smith</h4><span class="d-block">Marketing Manager</span>
-                  <ul class="justify-content-center social-links offset-top-30">
-                    <li><a class="fa fa-linkedin" href="#"></a></li>
-                    <li><a class="fa fa fa-twitter" href="#"></a></li>
-                    <li><a class="fa fa-facebook" href="#"></a></li>
-                    <li><a class="fa fa-instagram" href="#"></a></li>
-                  </ul>
+
+              <div class="row row-50 justify-content-center">
+                <div class="col-xl-4 col-sm-6 col-10">
+                  <div class="team-classic-wrap">
+                    <div class="team-classic-img"><img src="images/team-classic-1-370x397.jpg" alt="" width="370" height="198"/>
+                    </div>
+                    <div class="block-320 text-center">
+                      <h4 class="font-weight-bold">William Johnson</h4><span class="d-block">CEO, Founder</span>
+                    </div>
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="col-xl-4 col-sm-6 col-10 wow fadeInRight" data-wow-delay=".3s">
-              <div class="team-classic-wrap">
-                <div class="team-classic-img"><img src="images/team-classic-3-370x397.jpg" alt="" width="370" height="198"/>
-                </div>
-                <div class="block-320 text-center">
-                  <h4 class="font-weight-bold">Robert Smith</h4><span class="d-block">Marketing Manager</span>
-                  <ul class="justify-content-center social-links offset-top-30">
-                    <li><a class="fa fa-linkedin" href="#"></a></li>
-                    <li><a class="fa fa fa-twitter" href="#"></a></li>
-                    <li><a class="fa fa-facebook" href="#"></a></li>
-                    <li><a class="fa fa-instagram" href="#"></a></li>
-                  </ul>
+
+              <div class="row row-50 justify-content-center">
+                <div class="col-xl-4 col-sm-6 col-10">
+                  <div class="team-classic-wrap">
+                    <div class="team-classic-img"><img src="images/team-classic-1-370x397.jpg" alt="" width="370" height="198"/>
+                    </div>
+                    <div class="block-320 text-center">
+                      <h4 class="font-weight-bold">William Johnson</h4><span class="d-block">CEO, Founder</span>
+                    </div>
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="col-xl-4 col-sm-6 col-10 wow fadeInRight" data-wow-delay=".3s">
-              <div class="team-classic-wrap">
-                <div class="team-classic-img"><img src="images/team-classic-3-370x397.jpg" alt="" width="370" height="198"/>
-                </div>
-                <div class="block-320 text-center">
-                  <h4 class="font-weight-bold">Robert Smith</h4><span class="d-block">Marketing Manager</span>
-                  <ul class="justify-content-center social-links offset-top-30">
-                    <li><a class="fa fa-linkedin" href="#"></a></li>
-                    <li><a class="fa fa fa-twitter" href="#"></a></li>
-                    <li><a class="fa fa-facebook" href="#"></a></li>
-                    <li><a class="fa fa-instagram" href="#"></a></li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-            <div class="col-xl-4 col-sm-6 col-10 wow fadeInRight" data-wow-delay=".3s">
-              <div class="team-classic-wrap">
-                <div class="team-classic-img"><img src="images/team-classic-3-370x397.jpg" alt="" width="370" height="198"/>
-                </div>
-                <div class="block-320 text-center">
-                  <h4 class="font-weight-bold">Robert Smith</h4><span class="d-block">Marketing Manager</span>
-                  <ul class="justify-content-center social-links offset-top-30">
-                    <li><a class="fa fa-linkedin" href="#"></a></li>
-                    <li><a class="fa fa fa-twitter" href="#"></a></li>
-                    <li><a class="fa fa-facebook" href="#"></a></li>
-                    <li><a class="fa fa-instagram" href="#"></a></li>
-                  </ul>
+
+              <div class="row row-50 justify-content-center">
+                <div class="col-xl-4 col-sm-6 col-10">
+                  <div class="team-classic-wrap">
+                    <div class="team-classic-img"><img src="images/team-classic-1-370x397.jpg" alt="" width="370" height="198"/>
+                    </div>
+                    <div class="block-320 text-center">
+                      <h4 class="font-weight-bold">William Johnson</h4><span class="d-block">CEO, Founder</span>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </section>    
+      </section>
       <!--Footer-->
       <?php include("footer.php")?>
     </div>
