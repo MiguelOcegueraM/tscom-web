@@ -20,8 +20,8 @@
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-xl-8 text-center">
-              <h1 class="font-weight-bold wow fadeInLeft">Typography</h1>
-              <p class="intro-description wow fadeInRight">Lots of Customization Options</p>
+              <h1 class="font-weight-bold wow fadeInLeft">Servicios</h1>
+              <p class="intro-description wow fadeInRight">Acerca de nuestros servicios y productos.</p>
             </div>
           </div>
         </div>
@@ -243,6 +243,26 @@
           </div>
         </div>
       </section><a class="section section-banner" href="https://www.templatemonster.com/intense-multipurpose-html-template.html" target="_blank" style="background-image: url(images/background-01-1920x310.jpg); background-image: -webkit-image-set( url(images/background-01-1920x310.jpg) 1x, url(images/background-01-3840x620.jpg) 2x )"><img src="images/foreground-01-1600x310.png" srcset="images/foreground-01-1600x310.png 1x, images/foreground-01-3200x620.png 2x" alt="" width="1600" height="310"></a>
+      <!--PRODUCTS-->
+      <section class="section section-md bg-gray-lighten">
+        <div class="container">
+          <div class="row">
+            <!-- Owl Carousel-->
+            <div class="owl-carousel text-center owl-brand" data-items="1" data-sm-items="2" data-md-items="3" data-lg-items="3" data-xl-items="5" data-xxl-items="5" data-dots="true" data-nav="false" data-stage-padding="15" data-loop="false" data-margin="30" data-mouse-drag="false" data-autoplay="true">
+              <div class="item"><img src="images/brand-1-200x48.png" alt="" width="200" height="24"/>
+              </div>
+              <div class="item"><img src="images/brand-2-200x48.png" alt="" width="200" height="24"/>
+              </div>
+              <div class="item"><img src="images/brand-3-200x48.png" alt="" width="200" height="24"/>
+              </div>
+              <div class="item"><img src="images/brand-4-200x48.png" alt="" width="200" height="24"/>
+              </div>
+              <div class="item"><img src="images/brand-5-200x48.png" alt="" width="200" height="24"/>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
       <?php include("footer.php")?>
     </div>
     <div class="snackbars" id="form-output-global"></div>
