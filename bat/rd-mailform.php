@@ -99,20 +99,20 @@ try {
         $mail->Debugoutput = 'html';
 
         // Set the hostname of the mail server
-        $mail->Host = $formConfig['smtp.gmail.com'];
+        $mail->Host = $formConfig['host'];
 
         // Set the SMTP port number - likely to be 25, 465 or 587
-        $mail->Port = $formConfig['587'];
+        $mail->Port = $formConfig['port'];
 
         // Whether to use SMTP authentication
         $mail->SMTPAuth = true;
         $mail->SMTPSecure = "tls";
 
         // Username to use for SMTP authentication
-        $mail->Username = $formConfig['migueloceguera.m@gmail.com'];
+        $mail->Username = $formConfig['username'];
 
         // Password to use for SMTP authentication
-        $mail->Password = $formConfig['30699Alejandro.'];
+        $mail->Password = $formConfig['password'];
     }
 
     $mail->From = $_POST['email'];
