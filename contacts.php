@@ -7,20 +7,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="icon" href="images/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Montserrat:300,400,700%7CPoppins:300,400,500,700,900">
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
-   integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
-   crossorigin=""/>
-   <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
-   integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
-   crossorigin=""></script>
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/fonts.css">
     <link rel="stylesheet" href="css/style.css">
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin="">
   </head>
   <body>
-  <?php include("preloader.php")?>
+    <?php include("preloader.php")?>
     <div class="page">
-    <?php include("header.php")?>
+      <?php include("header.php")?>
       <section class="section section-intro context-dark">
         <div class="intro-bg" style="background: url(images/intro-bg-1.jpg) no-repeat;background-size:cover;background-position: top center;"></div>
         <div class="container">
@@ -76,6 +72,7 @@
         <!--Example: <div class="google-map-container" data-key="YOUR_API_KEY">-->
         <div id="mapid">
         </div>
+      </section>
       <?php include("footer.php")?>
     </div>
     <div class="snackbars" id="form-output-global"></div>

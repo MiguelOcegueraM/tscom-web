@@ -7365,7 +7365,11 @@ html.rd-navbar-fixed-linked .page {
 	padding: 10px 0;
 }
 
-#mapid { height: 250px; }
+#mapid { 
+	height: 250px; 
+	width: 100%
+}
+
 /*
 .leaflet-map-markers {
 	display: none;
@@ -7400,7 +7404,7 @@ html.rd-navbar-fixed-linked .page {
 	}
 }
 
-.custom-contact-wrap .google-map {
+.custom-contact-wrap #mapid {
 	height: 100%;
 	min-height: 100%;
 }
