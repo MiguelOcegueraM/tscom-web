@@ -7,7 +7,7 @@ $siteKey = '6LeGwqsbAAAAANSztlwJBeyjsQEC4YdnyKn0_EHE';
 $secret = '6LeGwqsbAAAAAMhmEttRoO-KIwxPaDYR7CSQD88k';
 
 // reCAPTCHA supported 40+ languages listed here: https://developers.google.com/recaptcha/docs/language
-$lang = 'es-419';
+$lang = 'es';
 
 // If No key
 if ($siteKey === '' || $secret === ''):
