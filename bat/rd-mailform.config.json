@@ -1,7 +1,7 @@
 {
   "useSmtp": true,
   "host": "smtp.gmail.com",
-  "port": 587,
+  "port": 465,
   "username": "migueloceguera.m@gmail.com",
   "password": "30699Alejandro.",
   "recipientEmail": "migueloceguera.m@gmail.com"

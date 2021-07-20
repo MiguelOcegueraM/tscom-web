@@ -260,7 +260,7 @@
 			// Custom validator - phone number
 			regula.custom({
 				name: 'PhoneNumber',
-				defaultMessage: 'Invalid phone number format',
+				defaultMessage: 'Formato de número telefónico invalido.',
 				validator: function() {
 					if ( this.value === '' ) return true;
 					else return /^(\+\d)?[0-9\-\(\) ]{5,}$/i.test( this.value );
@@ -292,19 +292,19 @@
 			var regularConstraintsMessages = [
 				{
 					type: regula.Constraint.Required,
-					newMessage: "The text field is required."
+					newMessage: "Campo requerido."
 				},
 				{
 					type: regula.Constraint.Email,
-					newMessage: "The email is not a valid email."
+					newMessage: "Este correo no es valido."
 				},
 				{
 					type: regula.Constraint.Numeric,
-					newMessage: "Only numbers are required"
+					newMessage: "Solo números."
 				},
 				{
 					type: regula.Constraint.Selected,
-					newMessage: "Please choose an option."
+					newMessage: "Porfavor, elige una opción."
 				}
 			];
 
@@ -364,7 +364,7 @@
 			if (captchaToken.length === 0) {
 				captcha
 					.siblings('.form-validation')
-					.html('Please, prove that you are not robot.')
+					.html('Prueba, prueba que no eres un robot.')
 					.addClass('active');
 				captcha
 					.closest('.form-wrap')
@@ -942,7 +942,7 @@
 							form.addClass('form-in-process');
 
 							if (output.hasClass("snackbars")) {
-								output.html('<p><span class="icon text-middle fa fa-circle-o-notch fa-spin icon-xxs"></span><span>Sending</span></p>');
+								output.html('<p><span class="icon text-middle fa fa-circle-o-notch fa-spin icon-xxs"></span><span>Enviando...</span></p>');
 								output.addClass("active");
 							}
 						} else {
