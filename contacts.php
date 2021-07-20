@@ -26,6 +26,7 @@
           </div>
         </div>
       </section>
+
       <!--Mailform-->
       <section class="section section-md">
         <div class="container">
@@ -49,9 +50,9 @@
                   <label class="form-label label-textarea" for="contact-message">Mensaje<span class="req-symbol">*</span></label>
                   <textarea class="form-input" id="contact-message" name="message" data-constraints="@Required"></textarea>
                 </div>
-                <!--Google captcha-->
+                <!--Google captcha SCRT: 6LeGwqsbAAAAAMhmEttRoO-KIwxPaDYR7CSQD88k-->
                 <div class="form-wrap text-left form-validation-left">
-                  <div class="recaptcha" id="captcha1" data-sitekey="6LfZlSETAAAAAC5VW4R4tQP8Am_to4bM3dddxkEt"></div>
+                  <div class="recaptcha" id="captcha1" data-sitekey="6LeGwqsbAAAAANSztlwJBeyjsQEC4YdnyKn0_EHE"></div>
                 </div>
                 <div class="form-button group-sm text-center text-lg-left">
                   <button class="button button-primary" type="submit">Enviar</button>
