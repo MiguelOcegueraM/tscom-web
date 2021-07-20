@@ -7365,21 +7365,23 @@ html.rd-navbar-fixed-linked .page {
 	padding: 10px 0;
 }
 
-.google-map-markers {
+#mapid { height: 250px; }
+/*
+.leaflet-map-markers {
 	display: none;
 }
 
-.google-map-container {
+.leaflet-map-container {
 	width: 100%;
 	height: 100%;
 }
 
-.contacts-map .google-map {
+.contacts-map .leaflet-map {
 	height: 250px;
 	width: 100%;
 	height: 250px;
 	height: 570px;
-}
+}*/
 
 .custom-contact-wrap {
 	height: 250px;
