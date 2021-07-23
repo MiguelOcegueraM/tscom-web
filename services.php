@@ -31,7 +31,7 @@
         <div class="container">
             <div class="col-md col-12 text-center">
               <h3 class="wow fadeInLeft text-capitalize" data-wow-delay=".3s">Catálogo de <span class="text-primary"> servicios</span></h3>
-              <p class="block-675">Contamos con la experiencia y las herramientas para ofrecer a nuestros clientes servicios de calidad, te invitamos a conocer nuestro catálogo: </p>
+              <p class="block-675">Contamos con la experiencia y las herramientas para ofrecer a nuestros clientes servicios de calidad, te invitamos a conocer nuestro catálogo.</p>
             </div>
         </div>
       </section>
@@ -44,7 +44,7 @@
                 <div class="col-md-6"><img src="images/single-service-1-770x414.jpg" alt="" width="770" height="207"/>
                 </div>
                 <div class="col-md-6">
-                  <p>Welcome to our wonderful world. We sincerely hope that each and every user entering our website will find exactly what he/she is looking for. With advanced features of activating account and new login widgets, you will definitely have a great experience of using our web page.</p>
+                  <p>Contamos con venta, reparación, calibración y programación de equipos de radiocomunicación bases y móviles (VHF, UHF), instalación de equipo de radio en unidades de transporte, instalación de mástiles y torres con antena y sistemas de tierra física con pararrayos.</p>
                 </div>
               </div>
             </div>
@@ -59,7 +59,7 @@
                 <div class="col-md-6"><img src="images/single-service-2-770x414.jpg" alt="" width="770" height="207"/>
                 </div>
                 <div class="col-md-6">
-                  <p>Welcome to our wonderful world. We sincerely hope that each and every user entering our website will find exactly what he/she is looking for. With advanced features of activating account and new login widgets, you will definitely have a great experience of using our web page.</p>
+                  <p>Diseño e instalación de circuitos cerrados de videovigilancia en alta definición (IP o Digital) con herramientas para la detección de vehículos, rostros y personas con inteligencia artificial y aplicaciones para monitoreo remoto desde dispositivos móviles.</p>
                 </div>
               </div>
             </div>
@@ -74,7 +74,7 @@
                 <div class="col-md-6"><img src="images/single-service-3-770x414.jpg" alt="" width="770" height="207"/>
                 </div>
                 <div class="col-md-6">
-                  <p>Welcome to our wonderful world. We sincerely hope that each and every user entering our website will find exactly what he/she is looking for. With advanced features of activating account and new login widgets, you will definitely have a great experience of using our web page.</p>
+                  <p>Venta e instalación de GPS vehicular y personal con aplicación para dispositivos móviles para monitoreo en vivo, generación de reportes, parada de motor en caso de emergencia, hombre caído y sensores.</p>
                 </div>
               </div>
             </div>
@@ -89,7 +89,7 @@
                 <div class="col-md-6"><img src="images/single-service-4-770x414.jpg" alt="" width="770" height="207"/>
                 </div>
                 <div class="col-md-6">
-                  <p>Welcome to our wonderful world. We sincerely hope that each and every user entering our website will find exactly what he/she is looking for. With advanced features of activating account and new login widgets, you will definitely have a great experience of using our web page.</p>
+                  <p>Venta e instalación de sirenas, torretas y estrobos para equipos de emergencia, señalización, escoltas y unidades de rescate.</p>
                 </div>
               </div>
             </div>
@@ -104,7 +104,7 @@
                 <div class="col-md-6"><img src="images/single-service-5-770x414.jpg" alt="" width="770" height="207"/>
                 </div>
                 <div class="col-md-6">
-                  <p>Welcome to our wonderful world. We sincerely hope that each and every user entering our website will find exactly what he/she is looking for. With advanced features of activating account and new login widgets, you will definitely have a great experience of using our web page.</p>
+                  <p>Venta, diseño e instalación de sistemas para control de acceso vehicular y personal por medio de tecnología RFID.</p>
                 </div>
               </div>
             </div>
@@ -119,7 +119,7 @@
                 <div class="col-md-6"><img src="images/single-service-6-770x414.jpg" alt="" width="770" height="207"/>
                 </div>
                 <div class="col-md-6">
-                  <p>Welcome to our wonderful world. We sincerely hope that each and every user entering our website will find exactly what he/she is looking for. With advanced features of activating account and new login widgets, you will definitely have a great experience of using our web page.</p>
+                  <p>Venta e instalación de paneles solares para sistemas de retorno con la CFE y sistemas de isla.</p>
                 </div>
               </div>
             </div>

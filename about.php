@@ -85,65 +85,32 @@
             </div>
           <div class="row">
             <!-- Owl Carousel-->
-            <div class="owl-carousel text-center"data-items="1" data-sm-items="1" data-md-items="2" data-lg-items="2" data-xl-items="3" data-xxl-items="3"  data-dots="true" data-nav="false" data-stage-padding="15" data-loop="false" data-margin="30" data-mouse-drag="true">
-              <div class="row row-50 justify-content-center">
-                <div class="col-xl-4 col-sm-6 col-10">
-                  <div class="team-classic-wrap">
-                    <div class="team-classic-img"><img src="images/team-classic-1-370x397.jpg" alt="" width="370" height="198"/>
-                    </div>
-                    <div class="block-320 text-center">
-                      <h4 class="font-weight-bold">William Johnson</h4><span class="d-block">CEO, Founder</span>
-                    </div>
-                  </div>
-                </div>
+            <div class="owl-carousel text-center owl-brand" data-items="1" data-sm-items="2" data-md-items="3" data-lg-items="3" data-xl-items="5" data-xxl-items="5" data-dots="true" data-nav="false" data-stage-padding="15" data-loop="false" data-margin="30" data-mouse-drag="true">
+              <div class="item"><img src="images/team-classic-1-370x397.png" alt="" width="200" height="24"/>
               </div>
-
-              <div class="row row-50 justify-content-center">
-                <div class="col-xl-4 col-sm-6 col-10">
-                  <div class="team-classic-wrap">
-                    <div class="team-classic-img"><img src="images/team-classic-1-370x397.jpg" alt="" width="370" height="198"/>
-                    </div>
-                    <div class="block-320 text-center">
-                      <h4 class="font-weight-bold">William Johnson</h4><span class="d-block">CEO, Founder</span>
-                    </div>
-                  </div>
-                </div>
+              <div class="item"><img src="images/team-classic-2-370x397.png" alt="" width="200" height="24"/>
               </div>
-
-              <div class="row row-50 justify-content-center">
-                <div class="col-xl-4 col-sm-6 col-10">
-                  <div class="team-classic-wrap">
-                    <div class="team-classic-img"><img src="images/team-classic-1-370x397.jpg" alt="" width="370" height="198"/>
-                    </div>
-                    <div class="block-320 text-center">
-                      <h4 class="font-weight-bold">William Johnson</h4><span class="d-block">CEO, Founder</span>
-                    </div>
-                  </div>
-                </div>
+              <div class="item"><img src="images/team-classic-3-370x397.png" alt="" width="200" height="24"/>
               </div>
-
-              <div class="row row-50 justify-content-center">
-                <div class="col-xl-4 col-sm-6 col-10">
-                  <div class="team-classic-wrap">
-                    <div class="team-classic-img"><img src="images/team-classic-1-370x397.jpg" alt="" width="370" height="198"/>
-                    </div>
-                    <div class="block-320 text-center">
-                      <h4 class="font-weight-bold">William Johnson</h4><span class="d-block">CEO, Founder</span>
-                    </div>
-                  </div>
-                </div>
+              <div class="item"><img src="images/team-classic-4-370x397.png" alt="" width="200" height="24"/>
               </div>
-
-              <div class="row row-50 justify-content-center">
-                <div class="col-xl-4 col-sm-6 col-10">
-                  <div class="team-classic-wrap">
-                    <div class="team-classic-img"><img src="images/team-classic-1-370x397.jpg" alt="" width="370" height="198"/>
-                    </div>
-                    <div class="block-320 text-center">
-                      <h4 class="font-weight-bold">William Johnson</h4><span class="d-block">CEO, Founder</span>
-                    </div>
-                  </div>
-                </div>
+              <div class="item"><img src="images/team-classic-5-370x397.png" alt="" width="200" height="24"/>
+              </div>
+              <div class="item"><img src="images/team-classic-6-370x397.png" alt="" width="200" height="24"/>
+              </div>
+              <div class="item"><img src="images/team-classic-7-370x397.png" alt="" width="200" height="24"/>
+              </div>
+              <div class="item"><img src="images/team-classic-8-370x397.png" alt="" width="200" height="24"/>
+              </div>
+              <div class="item"><img src="images/team-classic-9-370x397.png" alt="" width="200" height="24"/>
+              </div>
+              <div class="item"><img src="images/team-classic-10-370x397.png" alt="" width="200" height="24"/>
+              </div>
+              <div class="item"><img src="images/team-classic-11-370x397.png" alt="" width="200" height="24"/>
+              </div>
+              <div class="item"><img src="images/team-classic-12-370x397.png" alt="" width="200" height="24"/>
+              </div>
+              <div class="item"><img src="images/team-classic-13-370x397.png" alt="" width="200" height="24"/>
               </div>
             </div>
           </div>

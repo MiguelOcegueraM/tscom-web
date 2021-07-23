@@ -118,7 +118,7 @@
         <div class="decor-text decor-text-2 wow fadeInUp" data-wow-delay=".3s">Valores</div>
       </section>
   
-      <!--Owl Carousel-->
+      <!--Owl Carousel
       <section class="section section-md bg-gray-lighten">
         <div class="container">
           <div class="row justify-content-center">
@@ -162,7 +162,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </section>-->
 
       <!--Footer-->
       <?php include("footer.php")?>
