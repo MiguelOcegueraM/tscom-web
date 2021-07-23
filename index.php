@@ -68,7 +68,7 @@
               <div class="block-sm offset-top-45">
                 <div class="section-name wow fadeInRight" data-wow-delay=".2s">Nosotros</div>
                 <h3 class="wow fadeInLeft text-capitalize devider-bottom" data-wow-delay=".3s">Que<span class="text-primary"> Hacemos</span></h3>
-                <p class="offset-xl-40 wow fadeInUp" data-wow-delay=".4s">Somos una empresa colimense con mas de 15 años de experiencia ofreciendo soluciones para nuestros clientes con servicios de radiocomunicación, videovigilancia con Inteligencia Artificial, sistemas de geolocalización, sistemas de energía solar, control de acceso industrial y residencial, equipamiento de unidades de emergencia y redes inalámbricas.</p>
+                <p class="offset-xl-40 wow fadeInUp" data-wow-delay=".4s">Somos una empresa colimense con más de 15 años de experiencia ofreciendo soluciones para nuestros clientes con servicios de radiocomunicación, videovigilancia con Inteligencia Artificial, sistemas de geolocalización, sistemas de energía solar, control de acceso industrial y residencial, equipamiento de unidades de emergencia y redes inalámbricas.</p>
                 <p class="default-letter-spacing font-weight-bold text-gray-dark wow fadeInUp" data-wow-delay=".4s">Buscamos siempre realizar servicios de alta calidad implementando soluciones con tecnologías disruptivas.</p><a class="button-width-190 button-primary button-circle button-lg button offset-top-30" href="about.php">Ver más</a>
               </div>
             </div>
