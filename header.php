@@ -11,7 +11,7 @@
                   <li>
                     <div class="unit unit-spacing-xs align-items-center">
                       <div class="unit-left"><span class="icon text-middle fa-phone"></span></div>
-                      <div class="unit-body"><a href="tel:#">+52 312 314 6309</a></div>
+                      <div class="unit-body"><a href="tel:+52 312 314 6309">+52 312 314 6309</a></div>
                     </div>
                   </li>
                   <li>
