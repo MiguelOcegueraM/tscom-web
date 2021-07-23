@@ -114,6 +114,18 @@
               </div>
               <div class="item"><img src="images/team-classic-14-370x397.png" alt="" width="200" height="24"/>
               </div>
+              <div class="item"><img src="images/team-classic-15-370x397.png" alt="" width="200" height="24"/>
+              </div>
+              <div class="item"><img src="images/team-classic-16-370x397.png" alt="" width="200" height="24"/>
+              </div>
+              <div class="item"><img src="images/team-classic-17-370x397.png" alt="" width="200" height="24"/>
+              </div>
+              <div class="item"><img src="images/team-classic-18-370x397.png" alt="" width="200" height="24"/>
+              </div>
+              <div class="item"><img src="images/team-classic-19-370x397.png" alt="" width="200" height="24"/>
+              </div>
+              <div class="item"><img src="images/team-classic-20-370x397.png" alt="" width="200" height="24"/>
+              </div>
             </div>
           </div>
         </div>
