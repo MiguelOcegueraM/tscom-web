@@ -83,7 +83,7 @@
             <div class="col-xl-7 col-lg-7 col-12">
               <div class="section-name wow fadeInRight">Valores</div>
               <h3 class="text-capitalize devider-left wow fadeInLeft" data-wow-delay=".2s">Porque nuestros clientes <span class="text-primary"> nos eligen</span></h3>
-              <p>Contamos con mas de 15 años de experiencia creando soluciones para nuestros clientes teniendo en cuenta 4 pilares importantes:</p>
+              <p>Contamos con más de 15 años de experiencia creando soluciones para nuestros clientes teniendo en cuenta 4 pilares importantes:</p>
               <div class="row row-15">
                 <div class="col-xl-6 wow fadeInUp" data-wow-delay=".2s">
                   <div class="box-default">
