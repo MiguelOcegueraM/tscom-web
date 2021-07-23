@@ -5715,6 +5715,7 @@ html:not(.lt-ie10) .not-animated {
 	border-left-color: transparent;
 	border-bottom-color: transparent;
 	animation: cssload-spin .88s infinite linear;
+
 }
 
 @keyframes cssload-spin {
