@@ -126,6 +126,8 @@
               </div>
               <div class="item"><img src="images/team-classic-20-370x397.png" alt="" width="200" height="24"/>
               </div>
+              <div class="item"><img src="images/team-classic-21-370x397.png" alt="" width="200" height="24"/>
+              </div>
             </div>
           </div>
         </div>
