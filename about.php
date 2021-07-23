@@ -21,7 +21,7 @@
           <div class="row justify-content-center">
             <div class="col-xl-8 text-center">
               <h1 class="font-weight-bold wow fadeInLeft">Sobre nosotros</h1>
-              <p class="intro-description wow fadeInRight">Conoce acerca de la empresa y nuestro equipo. ¡Siempre estamos felices de ayudar!</p>
+              <p class="intro-description wow fadeInRight">Conoce acerca de la empresa y nuestro equipo ¡Siempre estamos felices de ayudar!</p>
             </div>
           </div>
         </div>
@@ -35,8 +35,8 @@
                 <div class="section-name wow fadeInRight" data-wow-delay=".2s">Conócenos</div>
                 <h3 class="wow fadeInLeft text-capitalize" data-wow-delay=".3s">Un poco<span class="text-primary"> acerca de nosotros</span></h3>
                 <p class="font-weight-bold text-gray-dark wow fadeInUp" data-wow-delay=".4s">Somos una empresa colimense con mas de 15 años de experiencia ofreciendo soluciones para nuestros clientes con servicios de radiocomunicación, videovigilancia con Inteligencia Artificial, sistemas de geolocalización, sistemas de energía solar, control de acceso industrial y residencial, equipamiento de unidades de emergencia y redes inalámbricas.</p>
-                <p class="wow fadeInUp" data-wow-delay=".4s">Tscom nace con el objetivo de brindar soluciones y servicios de radiocomunicación en la ciudad de Colima con el objetivo de posicionarse como una de las empresas en el ramo mas destacadas, al paso del tiempo la demanda del mercado da la oportunidad de integrar nuevos servicios para brindar soporte en otras áreas de tecnología.</p>
-                <p class="wow fadeInUp" data-wow-delay=".4s">Nuestro objetivo es ofrecer proyectos adaptados a las necesidades de nuestros clientes teniendo en cuenta siempre la calidad y escalabilidad de estos. </p>
+                <p class="wow fadeInUp" data-wow-delay=".4s">Tscom nace con el objetivo de brindar soluciones y servicios de radiocomunicación en la ciudad de Colima buscando posicionarse como una de las empresas más destacadas en el ramo, al paso del tiempo la demanda en el mercado nos llevó a inovar e integrar nuevos servicios para brindar soporte en otras áreas de tecnología.</p>
+                <p class="wow fadeInUp" data-wow-delay=".4s">Nuestro meta es ofrecer proyectos adaptados a las necesidades de nuestros clientes teniendo en cuenta siempre la calidad y escalabilidad de estos. </p>
                 <div class="offset-top-20">
                   <!--Linear progress bar-->
                   <article class="progress-linear">
@@ -81,7 +81,7 @@
             <div class="col-md col-12 text-center">
               <div class="section-name wow fadeInRight" data-wow-delay=".2s">Referencias</div>
               <h3 class="wow fadeInLeft text-capitalize" data-wow-delay=".3s">algunos de <span class="text-primary"> nuestros clientes</span></h3>
-              <p class="block-675">Contamos con una amplia cartera de clientes que hemos formado a lo largo de estos años, estos son algunos de ellos:</p>
+              <p class="block-675">Contamos con una amplia cartera de clientes que hemos formado a lo largo de estos años, estos son algunos de ellos</p>
             </div>
           <div class="row">
             <!-- Owl Carousel-->
