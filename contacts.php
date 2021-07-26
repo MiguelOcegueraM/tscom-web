@@ -35,6 +35,7 @@
           <!--RD Mailform-->
           <div class="row justify-content-center">
             <div class="col-xl-6 col-md-8 col-12">
+
               <form class="rd-mailform text-left" data-form-output="form-output-global" data-form-type="contact" method="post" action="bat/rd-mailform.php">
                 <div class="form-wrap">
                   <label class="form-label" for="contact-name">Nombre<span class="req-symbol">*</span></label>
@@ -60,6 +61,7 @@
                   <button class="button button-primary" type="submit">Enviar</button>
                 </div>
               </form>
+              
             </div>
           </div>
         </div>
