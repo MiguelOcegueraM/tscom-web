@@ -2,7 +2,7 @@
   "useSmtp": true,
   "host": "smtp.gmail.com",
   "port": 465,
-  "username": "migueloceguera.m@gmail.com",
-  "password": "30699Alejandro.",
-  "recipientEmail": "migueloceguera.m@gmail.com"
+  "username": "testmail260721@gmail.com",
+  "password": "test26072021",
+  "recipientEmail": "testmail260721@gmail.com"
 }
