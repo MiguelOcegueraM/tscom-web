@@ -94,7 +94,7 @@ try {
         // 0 = off (for production use)
         // 1 = client messages
         // 2 = client and server messages
-        $mail->SMTPDebug = SMT::DEBUG_SERVER;
+        $mail->SMTPDebug = SMTP::DEBUG_SERVER;
 
         $mail->Debugoutput = 'html';
 
