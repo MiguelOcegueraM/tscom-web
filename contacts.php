@@ -53,7 +53,6 @@
                   <label class="form-label label-textarea" for="contact-message">Mensaje<span class="req-symbol">*</span></label>
                   <textarea class="form-input" id="contact-message" name="message" data-constraints="@Required"></textarea>
                 </div>
-                <!--Google captcha SCRT: 6LeGwqsbAAAAAMhmEttRoO-KIwxPaDYR7CSQD88k-->
                 <div class="form-wrap text-left form-validation-left">
                   <div class="recaptcha" id="captcha1" data-sitekey="6LeGwqsbAAAAANSztlwJBeyjsQEC4YdnyKn0_EHE"></div>
                 </div>
@@ -67,11 +66,8 @@
         </div>
       </section>
 
-      <!--Google Map-->
+      <!--Map-->
       <section class="section">
-        <!--Please, add the data attribute data-key="YOUR_API_KEY" in order to insert your own API key for the Google map.-->
-        <!--Please note that YOUR_API_KEY should replaced with your key.-->
-        <!--Example: <div class="google-map-container" data-key="YOUR_API_KEY">-->
         <div id="mapid">
         </div>
       </section>
