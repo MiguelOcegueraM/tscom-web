@@ -44,7 +44,7 @@
                   <li>Sáb:<span class="d-inline-block offset-left-10 text-black">9:00 AM - 1:00 PM</span></li>
                 </ul>
                 <br>
-                <a class="button-width-190 button-primary button-circle button-lg button offset-top-30" href="https://wa.me/523123028258?text=Hola%20Me.%20gustaría%20hablar%20con%20ustedes">Escribenos por Whatsapp!</a>
+                <a class="button-width-190 button-primary button-circle button-lg button offset-top-30" href="https://wa.me/523123028258?text=Hola.%20Me%20gustaría%20hablar%20con%20ustedes">Escribenos por Whatsapp!</a>
               </div>
               <!--  <form class="rd-mailform text-left" data-form-output="form-output-global" data-form-type="contact" method="post" action="bat/rd-mailform.php">
                 <div class="form-wrap">
