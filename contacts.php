@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Montserrat:300,400,700%7CPoppins:300,400,500,700,900">
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/fonts.css">
@@ -23,7 +24,7 @@
           <div class="row justify-content-center">
             <div class="col-xl-8 text-center">
               <h1 class="font-weight-bold wow fadeInLeft">Contacto</h1>
-              <p class="intro-description wow fadeInRight">Si deseas realizar una cotización escríbenos tus datos y nosotros te contactaremos, también puedes encontrar nuestros datos de contacto en la parte superior e inferior de la página.</p>
+              <p class="intro-description wow fadeInRight">Si deseas realizar una cotización contáctanos por los medios oficiales que aparecen a continuación.</p>
             </div>
           </div>
         </div>
@@ -36,7 +37,16 @@
           <div class="row justify-content-center">
             <div class="col-xl-6 col-md-8 col-12">
 
-              <form class="rd-mailform text-left" data-form-output="form-output-global" data-form-type="contact" method="post" action="bat/rd-mailform.php">
+              <div>
+                <a class="d-block offset-top-0" href="https://www.google.com/maps/place/TSCOM+tecnologia+en+sistemas+de+comunicacion/@19.2540234,-103.7269423,15z/data=!4m5!3m4!1s0x0:0xd6c949c3d443181e!8m2!3d19.2540075!4d-103.7269143">Rafaela Suárez #455, Col. Magisterial<span class="d-lg-block">Colima 28030, México</span></a><a class="d-inline-block" href="tel:+523123146309">+52 312 314 63 09</a>
+                <ul>
+                  <li>Lun-Vie:<span class="d-inline-block offset-left-10 text-black">9:00 AM - 5:00 PM</span></li>
+                  <li>Sáb:<span class="d-inline-block offset-left-10 text-black">9:00 AM - 1:00 PM</span></li>
+                </ul>
+                <br>
+                <a class="button-width-190 button-primary button-circle button-lg button offset-top-30" href="https://wa.me/523123028258?text=Hola%20Me.%20gustaría%20hablar%20con%20ustedes">Escribenos por Whatsapp!</a>
+              </div>
+              <!--  <form class="rd-mailform text-left" data-form-output="form-output-global" data-form-type="contact" method="post" action="bat/rd-mailform.php">
                 <div class="form-wrap">
                   <label class="form-label" for="contact-name">Nombre<span class="req-symbol">*</span></label>
                   <input class="form-input" id="contact-name" type="text" name="name" data-constraints="@Required">
@@ -59,7 +69,7 @@
                 <div class="form-button group-sm text-center text-lg-left">
                   <button class="button button-primary" type="submit">Enviar</button>
                 </div>
-              </form>
+              </form> -->
               
             </div>
           </div>

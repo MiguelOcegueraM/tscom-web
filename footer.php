@@ -13,7 +13,7 @@
                 <li>Lun-Vie:<span class="d-inline-block offset-left-10 text-white">9:00 AM - 5:00 PM</span></li>
                 <li>Sáb:<span class="d-inline-block offset-left-10 text-white">9:00 AM - 1:00 PM</span></li>
               </ul>
-              <a class="d-inline-block d-block offset-top-0" href="mailto:atencionaclientes@tscomunicacion.com">atencionaclientes@tscomunicacion.com</a>
+              
             </div>
             <div class="col-lg-2 col-sm-4 wow fadeInUp" data-wow-delay=".3s">
               <P class="footer-classic-title">VISITA: </P>
@@ -25,8 +25,8 @@
               </ul>
             </div>
             <div class="col-lg-4 wow fadeInLeft" data-wow-delay=".2s">
-              <P class="footer-classic-title">Ofertas</P>
-              <form class="rd-mailform text-left footer-classic-subscribe-form" data-form-output="form-output-global" data-form-type="contact" method="post" action="bat/rd-mailform.php">
+              <P class="footer-classic-title">Correo electrónico</P>
+              <!--<form class="rd-mailform text-left footer-classic-subscribe-form" data-form-output="form-output-global" data-form-type="contact" method="post" action="bat/rd-mailform.php">
                 <div class="form-wrap">
                   <label class="form-label" for="subscribe-email">Correo electrónico</label>
                   <input class="form-input" id="subscribe-email" type="email" name="email" data-constraints="@Email @Required">
@@ -34,8 +34,8 @@
                 <div class="form-button group-sm text-center text-lg-left">
                   <button class="button button-primary button-circle" type="submit">Aceptar</button>
                 </div>
-              </form>
-              <p>Conoce acerca de nuestro servicios y recibe ofertas con descuentos.</p>
+              </form>-->
+              <a class="d-inline-block d-block offset-top-0" href="mailto:atencionaclientes@tscomunicacion.com">atencionaclientes@tscomunicacion.com</a>
             </div>
           </div>
         </div>
@@ -45,6 +45,7 @@
             <ul class="social-links">
               <li><a class="fa fa-facebook" href="https://www.facebook.com/TscomMx/"></a></li>
               <li><a class="fa fa-instagram" href="https://www.instagram.com/tscom_mx/"></a></li>
+              <li><a class="fa fa-whatsapp" href="https://wa.me/523123028258?text=Hola.%20Me%20gustaría%20hablar%20con%20ustedes"></a></li>
             </ul>
           </div>
         </div>

@@ -30,6 +30,7 @@
                 <ul class="social-links">
                   <li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" href="https://www.facebook.com/TscomMx/"></a></li>
                   <li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" href="https://www.instagram.com/tscom_mx/"></a></li>
+                  <li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-whatsapp" href="https://wa.me/523123028258?text=Hola.%20Me%20gustaría%20hablar%20con%20ustedes"></a></li>
                 </ul>
               </div>
             </div>
